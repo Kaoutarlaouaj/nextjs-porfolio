@@ -39,6 +39,11 @@ const Certif = () => {
           <AnimatedText text="Words Can Change The World!" className="mb-16" />
           <h2 className="font-bold text-4xl w-full text-center my-16 mt-32 dark:text-light">All Certificats</h2>
           <ul className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+             <Certificat 
+              title="Embracing a Culture of Feedback" 
+              date="Feb 2026" 
+              link="/images/certificats/certificat-embracing_a_culture_of_feedback.pdf" 
+            />
           <Certificat 
               title="Basic Concepts of Switching, Routing, and Wireless: Networking fundamentals" 
               date="June 2024" 
