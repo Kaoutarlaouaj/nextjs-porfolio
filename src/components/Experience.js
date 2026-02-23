@@ -54,8 +54,23 @@ const Experience = () => {
         />
 
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
+           <Details
+            position=".NET & Unity Developer"
+            company="SQLI"
+            companyLink="www.google.com"
+            time="03/2025 – Present"
+            address="Rabat"
+            work="Development of immersive Mixed Reality applications using Unity and C#, 
+            including Room Scanning, spatial mapping, and real-world environment interaction. 
+            Implementation of scene understanding, object detection, 
+            and real-time user interaction for Meta Quest devices. Backend integration, 
+            application logic maintenance, and performance optimization to deliver scalable and interactive XR solutions. 
+            Contribution to technical and functional documentation, compliance preparation (licenses, Privacy Policy, Terms of Use), 
+            and project review sessions. Work conducted following Scrum methodology using Jira, Linear, Microsoft Teams, Slack, and GitHub for project management, 
+            communication, and version control."
+          />
           <Details
-            position="Intern Oujda"
+            position=".NET & Angular Intern"
             company="SEOMANIAK"
             companyLink="www.google.com"
             time="07/2024 – 09/2024"
@@ -65,40 +80,6 @@ const Experience = () => {
             platform. Chafaf Entrepreneur is a website that allows investors to invest in various 
             projects in accordance with Islamic criteria for entrepreneurs. The project uses 
             Angular for the frontend and .NET for the backend."
-          />
-          <Details
-            position="Intern Oujda"
-            company="ANCFCC"
-            companyLink="www.google.com"
-            time="07/2023 – 08/2023"
-            address="Boulevard Mohammed Derfoufi, Oujda"
-            work="Creation of a platform for Forest Domain Distraction, Real Estate Exchange, 
-            Private Land Acquisition using Bootstrap and PHP."
-          />
-          <Details
-            position="Intern Oujda"
-            company="ESTO"
-            companyLink="www.google.com"
-            time="04/2022 – 07/2022"
-            address="Al Qods University Complex, Oujda"
-            work="Processing a large medical database in Gulf countries and constructing a 
-            dashboard using machine learning, Python, PowerBI, and PowerQuery."
-          />
-          <Details
-            position="Intern Guercif"
-            company="Commune"
-            companyLink="www.google.com"
-            time="04-2021– 06/2021"
-            address="downtown, Guercif"
-            work="Creation of an intern management application using Java, Swing."
-          />
-          <Details
-            position="Intern Guercif"
-            company="Commune"
-            companyLink="www.google.com"
-            time="08-2020 – 09-2020"
-            address="downtown, Guercif"
-            work="Creation of an individual life certificate application using C#."
           />
         </ul>
       </div>
