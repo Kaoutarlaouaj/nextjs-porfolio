@@ -62,7 +62,7 @@ const about = () => {
               </p>
               <p className="my-4 font-medium">
                 I believe that development is about more than just making things
-                look pretty and functional &mdash; it&apos;s about solving
+                look pretty and functional it&apos;s about solving
                 problems and creating intuitive, enjoyable experiences for
                 users.
               </p>
