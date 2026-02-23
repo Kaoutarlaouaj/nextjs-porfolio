@@ -65,7 +65,7 @@ const Skills = () => {
         <Skill name="Docker" x="-400px" y="260px" />
         <Skill name="Github" x="-400px" y="160px" />
         <Skill name="Git" x="400px" y="260px" />
-         <Skill name="Microservices" x="-110px" y="260px" />
+         <Skill name="Microservices" x="-110px" y="-260px" />
         <Skill name="API Rest" x="-400px" y="-260px" />
         <Skill name="JWT" x="400px" y="160px" />
         <Skill name="Meta quest 3" x="400px" y="60px" />
