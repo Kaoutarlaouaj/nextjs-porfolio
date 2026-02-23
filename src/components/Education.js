@@ -49,14 +49,8 @@ const Education = () => {
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
-            type="Third year of the engineering cycle."
+            type="STATE ENGINEER DEGREE"
             time="2025"
-            place="ENSA Oujda"
-            info="Computer Science."
-          />
-          <Details
-            type="Second year of engineering cycle"
-            time="2024"
             place="ENSA Oujda"
             info="Computer Science."
           />
