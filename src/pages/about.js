@@ -56,8 +56,8 @@ const about = () => {
               <p className="font-medium">
                 Hi, I&apos;m Kaoutar laouaj, a web full stack developer with a
                 passion for creating beautiful, functional, and user-centered
-                digital experiences. With 5 years of experience in the field. I
-                am always looking for new and innovative ways to create new
+                digital experiences. With 6 years of Study in the field and 6 month of work experience. 
+                I am always looking for new and innovative ways to create new
                 projects.
               </p>
               <p className="my-4 font-medium">
@@ -68,11 +68,11 @@ const about = () => {
               </p>
 
               <p className="font-medium">
-                Whether I&apos;m working on a website, mobile app, or other
+                Whether I&apos;m working on a website, mobile app, mixed reality app or other
                 digital product, I bring my commitment to design excellence and
                 user-centered thinking to every project I work on. I look
                 forward to the opportunity to bring my skills and passion to
-                your next project.
+                next project.
               </p>
             </div>
 
@@ -120,7 +120,7 @@ const about = () => {
                   <AnimatedNumbers value={6} />+
                 </span>
                 <h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm">
-                  Month of experience
+                  Month of work experience
                 </h2>
               </div>
             </div>
