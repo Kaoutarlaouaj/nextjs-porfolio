@@ -12,7 +12,7 @@ const HireMe = () => {
               hover:dark:border-light
               md:w-12 md:h-12 md:text-[10px]
              ">
-                My Contact </Link>
+                Contact Me </Link>
            </div> 
         </div>
     )
