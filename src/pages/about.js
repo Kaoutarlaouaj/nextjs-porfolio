@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 import Head from "next/head";
 import AnimatedText from "@/components/AnimtedText";
 import Layout from "@/components/Layout";
-import profilePic from "../../public/images/profile/laouaj-kaoutar.jpg";
+import profilePic from "../../public/images/profile/kawtar_profile.png";
 import Image from "next/image";
 import { motion, useInView, useMotionValue, useSpring } from "framer-motion";
 import Skills from "@/components/Skills";
