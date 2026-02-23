@@ -62,6 +62,7 @@ const Skills = () => {
         <Skill name="Spring" x="-490px" y="50px" />
         <Skill name="MySql" x="-200px" y="260px" />
         <Skill name="MongoDb" x="110px" y="260px" />
+         <Skill name="Unity" x="-400px" y="260px" />
       </div>
     </>
   );
