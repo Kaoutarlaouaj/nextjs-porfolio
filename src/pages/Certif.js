@@ -39,6 +39,16 @@ const Certif = () => {
           <AnimatedText text="Words Can Change The World!" className="mb-16" />
           <h2 className="font-bold text-4xl w-full text-center my-16 mt-32 dark:text-light">All Certificats</h2>
           <ul className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <Certificat 
+              title="Official Snowflake SnowPro Core C03" 
+              date="April 2026" 
+              link="/images/certificats/certif.png" 
+            />
+            <Certificat 
+              title="Snowflake SnowPro Core Certification Exam C02/03 training" 
+              date="April 2026" 
+              link="/images/certificats/training_certificat.jpg" 
+            />
               <Certificat 
               title="Solid Foundations in Intercultural Communication" 
               date="Feb 2026" 
